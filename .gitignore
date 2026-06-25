@@ -1,0 +1,32 @@
+# MATLAB autosave files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated/cache files
+*.mex*
+*.slxc
+*.mlx.cache
+*.mlappinstall
+*.mltbx
+
+# Simulink generated files/folders
+slprj/
+sccprj/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+
+# Data/output files that can get large
+*.mat
+*.fig
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
